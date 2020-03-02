@@ -45,4 +45,4 @@ Here it is!
 
 Thanks to this [stackoverflow question](https://stackoverflow.com/questions/51377362/shortcut-to-clear-terminal-doesnt-work-in-visual-studio-code-on-macos) that helped clear things up.
 
-_Happy hacking, and more bliss!_
+_Happy coding, and more bliss!_

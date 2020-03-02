@@ -15,4 +15,4 @@ After deciding to build my personal blog, I was faced with chosing a name for it
 
 Join me in this journey!
 
-_Happy hacking, and more bliss!_
+_Happy coding, and more bliss!_
