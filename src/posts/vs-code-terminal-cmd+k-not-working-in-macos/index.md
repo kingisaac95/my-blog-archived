@@ -3,6 +3,9 @@ title: "Visual Studio Code: Cmd+K not working in MacOS"
 date: 2020-02-27
 ---
 
+![VS Code interface](./opengraph-home.png)
+[Image source](https://code.visualstudio.com/opengraphimg/opengraph-home.png)
+
 > Visual Studio Code (VS Code) is awesome 😎 Now that I’ve said that, welcome! 😀
 
 If like me you’ve gotten into the habit of clearing your terminal using the `Cmd+K` shortcut, it becomes a pain when you can’t do that in VS Code.
